@@ -1,6 +1,6 @@
 body {
   background-color: #010165;
-  margin: 0px;
+  margin: 0;
 }
 
 .header {
@@ -50,7 +50,6 @@ body {
 }
 
 .start-row {
-  margin: auto;
   width: 120px;
   height: 43px;
   font-family: "Work Sans", sans-serif;
@@ -59,6 +58,6 @@ body {
   font-size: 18px;
   text-align: center;
   color: #010165;
-  margin-bottom: 21px;
+  margin: auto auto 21px;
   cursor: pointer;
 }
