@@ -1,4 +1,4 @@
-# Money exchanger site 🎮
+# Chore Door 🎮
 
 This project is a game, where you need to click closed doors
 and try not to meet robot behind it till the last door was opened.
